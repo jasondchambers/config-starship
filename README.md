@@ -1,9 +1,4 @@
-## config-starship
+## Retired
 
-starship.rs configuration. 
-
-### Installation 
-
-Create a symbolic link from ~/.config/starship.toml that points to starship.toml in this directory
-
+I've consolidated everything under [dot-files](https://github.com/jasondchambers/dot-files)
 
